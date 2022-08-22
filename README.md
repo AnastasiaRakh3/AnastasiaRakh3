@@ -4,7 +4,7 @@
 
 <p align='left'>I’m an aspiring frontend developer who likes to improve own skills 📚 Based in Moscow 🌆</p>
 
-### 🛠 My tech stack:
+## 🛠 My tech stack:
 
 - **Fundamentals:** React (with React hooks), HTML5, CSS/SCSS, JavaScript (ES5, ES6), TypeScript;
 - **State management:** Redux / Redux Toolkit;
