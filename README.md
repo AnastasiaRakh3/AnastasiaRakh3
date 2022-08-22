@@ -12,7 +12,7 @@
 - **Code bundlers:** Gulp, Webpack;
 - **UX/UI:** Figma, Photoshop;
 
-## Some of my projects
+## 🧩 Some of my projects
 | Project name        | Description          | Technologies  |
 | ------------- | ------------- | ----- |
 | [Six Cities](https://github.com/AnastasiaRakh3/1110353-six-cities-10) | Hotels booking service. | TypeScript, React, Redux, Jest, JavaScript |
@@ -21,7 +21,7 @@
 | [Mishka](https://github.com/AnastasiaRakh3/1110353-mishka-21) | Web-site for ordering handmade products | HTML, SASS, JavaScript, Gulp |
 | [Sedona](https://github.com/AnastasiaRakh3/1110353-sedona-32) | Arizona State tourism web-site. | HTML, CSS, JavaScript |
 
-## Github Stats  
+## 📈 Github Stats  
 <table><tr><td valign="top" width="50%">
   <img height="207em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnastasiaRakh3&border_radius=5&layout=compact&langs_count=10&hide_border=true" align="center"/>
 </td><td valign="top" width="50%">
