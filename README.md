@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://github.com/AnastasiaRakh3/anastasiiarakhmatova/blob/main/panorama%20.jpg" width="100%" alt="Greetings" />
+   <img src="https://github.com/AnastasiaRakh3/AnastasiaRakh3/blob/main/panorama.jpg" width="100%" alt="Greetings" />
 </p>
 
 <p align='left'>I’m an aspiring frontend developer who likes to improve own skills 📚 Based in Moscow 🌆</p>
