@@ -22,7 +22,8 @@
 | [Sedona](https://github.com/AnastasiaRakh3/1110353-sedona-32) | Arizona State tourism web-site. | HTML, CSS, JavaScript |
 
 ## Github Stats  
-<p align="center">
-  <img height="207em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnastasiaRakh3&border_radius=5&layout=compact&langs_count=10" align="center"/>
-  <img height="207em" src="https://github-readme-stats.vercel.app/api?username=AnastasiaRakh3&count_private=true&show_icons=true&border_radius=5&custom_title=&line_height=28" align="center"/>
-</p>
+<table><tr><td valign="top" width="50%">
+  <img height="207em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnastasiaRakh3&border_radius=5&layout=compact&langs_count=10&hide_border=true" align="center"/>
+</td><td valign="top" width="50%">
+  <img height="207em" src="https://github-readme-stats.vercel.app/api?username=AnastasiaRakh3&count_private=true&show_icons=true&border_radius=5&custom_title=&line_height=28&hide_border=true" align="center"/>
+</td></tr></table>  
