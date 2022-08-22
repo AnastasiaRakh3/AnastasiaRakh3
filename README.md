@@ -1,16 +1,28 @@
-### Hi there 👋
+<p align="center">
+   <img src="https://github.com/AnastasiaRakh3/anastasiiarakhmatova/blob/main/panorama%20.jpg" width="100%" alt="Greetings" />
+</p>
 
-<!--
-**AnastasiaRakh3/AnastasiaRakh3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='left'>I’m an aspiring frontend developer who likes to improve own skills 📚 Based in Moscow 🌆</p>
 
-Here are some ideas to get you started:
+### 🛠 My tech stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Fundamentals:** React (with React hooks), HTML5, CSS/SCSS, JavaScript (ES5, ES6), TypeScript;
+- **State management:** Redux / Redux Toolkit;
+- **Testing libraries:** Jest, React Testing Library;
+- **Code bundlers:** Gulp, Webpack;
+- **UX/UI:** Figma, Photoshop;
+
+## Some of my projects
+| Project name        | Description          | Technologies  |
+| ------------- | ------------- | ----- |
+| [Six Cities](https://github.com/AnastasiaRakh3/1110353-six-cities-10) | Hotels booking service. | TypeScript, React, Redux, Jest, JavaScript |
+| [Cinemaaddict](https://github.com/AnastasiaRakh3/1110353-cinemaddict-17) | Service for big movie fans. | JavaScript, Webpack |
+| [Kekstagram](https://github.com/AnastasiaRakh3/1110353-kekstagram-25) | App for using CSS-filters on photos. | JavaScript |
+| [Mishka](https://github.com/AnastasiaRakh3/1110353-mishka-21) | Web-site for ordering handmade products | HTML, SASS, JavaScript, Gulp |
+| [Sedona](https://github.com/AnastasiaRakh3/1110353-sedona-32) | Arizona State tourism web-site. | HTML, CSS, JavaScript |
+
+## Github Stats  
+<p align="center">
+  <img height="207em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnastasiaRakh3&border_radius=5&layout=compact&langs_count=10" align="center"/>
+  <img height="207em" src="https://github-readme-stats.vercel.app/api?username=AnastasiaRakh3&count_private=true&show_icons=true&border_radius=5&custom_title=&line_height=28" align="center"/>
+</p>
