@@ -5,12 +5,14 @@
 <p align='left'>I’m an aspiring frontend developer who likes improving own skills 📚 Based in Moscow 🌆</p>
 
 ## 🛠 My tech stack
-
 - **Fundamentals:** React (with React hooks), HTML5, CSS/SCSS, JavaScript (ES5, ES6), TypeScript;
 - **State management:** Redux / Redux Toolkit;
 - **Testing libraries:** Jest, React Testing Library;
 - **Code bundlers:** Gulp, Webpack;
 - **UX/UI:** Figma, Photoshop;
+
+## 👩🏻‍🎓 Currently learning
+- **Testing libraries:** Jest, React Testing Library;
 
 ## 🧩 Some of my projects
 | Project name        | Description          | Technologies  |
