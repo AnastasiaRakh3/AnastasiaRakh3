@@ -19,7 +19,7 @@
 | [Six Cities](https://github.com/AnastasiaRakh3/1110353-six-cities-10) | Hotels booking service. | TypeScript, React, Redux, JavaScript |
 | [Cinemaaddict](https://github.com/AnastasiaRakh3/1110353-cinemaddict-17) | Service for big movie fans. | JavaScript, Webpack |
 | [Kekstagram](https://github.com/AnastasiaRakh3/1110353-kekstagram-25) | App for using CSS-filters on photos. | JavaScript |
-| [Mishka](https://github.com/AnastasiaRakh3/1110353-mishka-21) | Web-site for ordering handmade products | HTML, SASS, JavaScript, Gulp |
+| [Mishka](https://github.com/AnastasiaRakh3/1110353-mishka-21) | Web-site for ordering handmade products. | HTML, SASS, JavaScript, Gulp |
 | [Sedona](https://github.com/AnastasiaRakh3/1110353-sedona-32) | Arizona State tourism web-site. | HTML, CSS, JavaScript |
 
 ## 📈 Github Stats  
